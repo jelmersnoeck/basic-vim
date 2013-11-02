@@ -11,3 +11,7 @@ set tabstop=4           " USe 4 spaces as tab
 " Syntax highlighting
 syntax on
 color twilight256
+
+" File formatting
+set fileformat=unix
+set encoding=utf-8
